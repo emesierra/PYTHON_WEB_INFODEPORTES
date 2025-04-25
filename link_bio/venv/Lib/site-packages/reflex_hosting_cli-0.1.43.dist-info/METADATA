@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: reflex-hosting-cli
+Version: 0.1.43
+Summary: Reflex Hosting CLI
+Project-URL: homepage, https://reflex.dev
+Project-URL: repository, https://github.com/reflex-dev/reflex
+Project-URL: documentation, https://reflex.dev/docs/getting-started/introduction
+Author-email: Nikhil Rao <nikhil@reflex.dev>, Alek Petuskey <alek@reflex.dev>
+Maintainer-email: Simon Young <simon@reflex.dev>, Khaleel Al-Adhami <khaleel@reflex.dev>
+License-Expression: Apache-2.0
+License-File: LICENSE
+Keywords: framework,web
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.9
+Requires-Dist: click>=8
+Requires-Dist: httpx<1.0,>=0.25.1
+Requires-Dist: packaging>=24.2
+Requires-Dist: platformdirs<5.0,>=3.10.0
+Requires-Dist: pyyaml>=6.0.2
+Requires-Dist: rich<15,>=13
+Requires-Dist: tabulate>=0.9.0
+Description-Content-Type: text/markdown
+
+# reflex-hosting-cli
+Hosting CLI for Reflex.
