@@ -34,10 +34,10 @@ En nuestra página web resaltamos a los equipos y deportistas que han alcanzado 
 ✔ Documentación clara en cada archivo.
 
 ## Repositorio del código
-🔗: 
+🔗: https://github.com/emesierra/PYTHON_WEB_INFODEPORTES/tree/emel
 
 ## Página desplegada
-🌐:
+🌐: https://link-bio-aqua-grass.reflex.run/
 
 
 # Tutorial: ¿Cómo desplegar la web en un servidor gratuito?
@@ -60,7 +60,7 @@ Compila el proyecto en modo producción, lo empaqueta y lo despliega automática
 ↪︎ Se creó el build de producción.
 
 ↪︎ Se generó una URL pública para acceder a la aplicación desde cualquier parte del mundo:
- 🔗
+ 🔗 https://link-bio-aqua-grass.reflex.run/
 
 # Conclusiones 
 
