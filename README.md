@@ -42,6 +42,9 @@ En nuestra página web resaltamos a los equipos y deportistas que han alcanzado 
 
 # Tutorial: ¿Cómo desplegar la web en un servidor gratuito?
 
+![Despliegue de la Página con Reflex](imagen del tutorial.jpg)
+
+
 ## Despliegue del proyecto utilizando REFLEX
 
 bserva el proceso de despliegue realizado directamente desde el terminal de Visual Studio Code. Se utilizaron los siguientes comandos:
