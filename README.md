@@ -12,7 +12,7 @@ Imagen: Una foto representativa de la final entre Argentina y Francia, capturand
 
 Video: Un video que muestra la famosa tanda de penales entre Argentina y Francia, con los momentos más emocionantes de ese desenlace.
 
-#REFLEX DEPLOY
+# REFLEX DEPLOY
 
-https://link-bio-aqua-grass.reflex.run
+Link Directo de la pagina: https://link-bio-aqua-grass.reflex.run
 
