@@ -11,3 +11,8 @@ Texto descriptivo: Una breve recapitulación sobre el mundial de fútbol 2022, i
 Imagen: Una foto representativa de la final entre Argentina y Francia, capturando la esencia de ese increíble partido.
 
 Video: Un video que muestra la famosa tanda de penales entre Argentina y Francia, con los momentos más emocionantes de ese desenlace.
+
+#REFLEX DEPLOY
+
+https://link-bio-aqua-grass.reflex.run
+
