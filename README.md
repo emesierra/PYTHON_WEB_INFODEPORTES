@@ -42,7 +42,8 @@ En nuestra página web resaltamos a los equipos y deportistas que han alcanzado 
 
 # Tutorial: ¿Cómo desplegar la web en un servidor gratuito?
 
-![Despliegue de la Página con Reflex](imagen del tutorial.jpg)
+![Despliegue de la Página con Reflex](Images/imagen_tuto.jpg)
+
 
 
 ## Despliegue del proyecto utilizando REFLEX
